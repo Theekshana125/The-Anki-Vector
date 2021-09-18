@@ -73,7 +73,7 @@ buttons = [
         InlineKeyboardButton(text="👥Support", url="https://t.me/MizuSupport_Official"),
     ],
     [
-        InlineKeyboardButton(text="📜 Source Code", url="https://Github.com/imtheekshana"),
+        InlineKeyboardButton(text="📜 Source Code", url="https://Github.com/imtheekshana126"),
         InlineKeyboardButton(text="❓Commands", url="http://t.me/TheMizustart?start=help"),
     ],
     [
@@ -84,7 +84,7 @@ buttons = [
 ]
 
 
-ANKIVECTOR_IMG = ""
+ANKIVECTOR_IMG = "CAACAgIAAxkBAAIfZWFFZLZ2U1n2NYJXS7ixFLNIuvDrAAIOAAOvxlEat1uC7H4BJ_cgBA"
 
 HELP_STRINGS = f"""
 *Main Commands :* 
