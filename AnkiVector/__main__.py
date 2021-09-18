@@ -69,11 +69,11 @@ Hey there! My name is *Mizu*, I help you manage your group in an efficient way!
 
 buttons = [
     [
-        InlineKeyboardButton(text="📡Updates", url="https://t.me/Mizutes"),
-        InlineKeyboardButton(text="👥Support", url="https://t.me/Mizuort_Official"),
+        InlineKeyboardButton(text="📡Updates", url="https://t.me/MizuUpdates"),
+        InlineKeyboardButton(text="👥Support", url="https://t.me/MizuSupport_Official"),
     ],
     [
-        InlineKeyboardButton(text="📜 Source Code", url="https://www.youtube.com/watch?v=fXXEcAkWAFU"),
+        InlineKeyboardButton(text="📜 Source Code", url="https://Github.com/imtheekshana"),
         InlineKeyboardButton(text="❓Commands", url="http://t.me/TheMizustart?start=help"),
     ],
     [
