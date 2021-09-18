@@ -74,7 +74,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="📜 Source Code", url="https://www.youtube.com/watch?v=fXXEcAkWAFU"),
-        InlineKeyboardButton(text="❓Commands", url="http://t.me/TheMizustart=help"),
+        InlineKeyboardButton(text="❓Commands", url="http://t.me/TheMizustart?start=help"),
     ],
     [
         InlineKeyboardButton(
@@ -87,7 +87,7 @@ buttons = [
 ANKIVECTOR_IMG = ""
 
 HELP_STRINGS = f"""
-*Main Commands :* 🤖
+*Main Commands :* 
 
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
