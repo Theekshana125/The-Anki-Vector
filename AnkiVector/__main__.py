@@ -74,7 +74,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="📜 Source Code", url="https://Github.com/imtheekshana126"),
-        InlineKeyboardButton(text="❓Commands", url="http://t.me/TheMizustart?start=help"),
+        InlineKeyboardButton(text="❓Commands", url=""),
     ],
     [
         InlineKeyboardButton(
